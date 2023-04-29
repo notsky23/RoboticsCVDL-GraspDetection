@@ -4,7 +4,7 @@ HW Guide: https://github.com/notsky23/RoboticsCV-PointCloudAnalysis/blob/master/
 
 ## What is this practice about?<br>
 
-This module is a cross between computer vision and robotics. We will be using point clouds to help a robot analyze and make sense of it's surroundings.<br><br>
+This module is a cross between deep learning applications in robotics. We will be using point clouds to help a robot analyze and make sense of it's surroundings.<br><br>
 
 In this module, we will be applying 2 algorithms to point clouds:<br>
 1. Random sample consensus (RANSAC)<br>
