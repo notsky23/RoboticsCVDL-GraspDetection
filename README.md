@@ -10,7 +10,7 @@ In this module, we will be applying 2 algorithms to point clouds:<br>
 1. Random sample consensus (RANSAC)<br>
 2. Iterative closest point (ICP)<br><br>
 
-## Installation Instructions
+## Installation Instructions:
 
 We recommend using Anaconda to set up your virtual environment, but you can use whatever method you wish.
 Execute the following commands to set up the environment with conda: 
