@@ -1,6 +1,6 @@
 # RoboticsCV-PointCloudAnalysis
 
-HW Guide: https://github.com/notsky23/RoboticsCV-PointCloudAnalysis/blob/master/hw4-v2.pdf.<br><br>
+HW Guide: https://github.com/notsky23/RoboticsDL-GraspDetection/blob/master/hw6-2.pdf.<br><br>
 
 ## What is this practice about?<br>
 
