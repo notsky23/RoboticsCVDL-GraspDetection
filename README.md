@@ -4,11 +4,9 @@ HW Guide: https://github.com/notsky23/RoboticsDL-GraspDetection/blob/master/hw6-
 
 ## What is this practice about?<br>
 
-This module is a cross between deep learning applications in robotics. We will be using point clouds to help a robot analyze and make sense of it's surroundings.<br><br>
+This module is a cross between computer vision and deep learning applications in robotics. We will be using point clouds to help a robot analyze and make sense of objects. We will also be using a fully convulutional neural network with the MobileNet backbone for training and . The architecture we will be using is called MobileUNet, which is a custom implementation of a U-Net style network with a pretrained MobileNetv3 backbone.<br>
 
-In this module, we will be applying 2 algorithms to point clouds:<br>
-1. Random sample consensus (RANSAC)<br>
-2. Iterative closest point (ICP)<br><br>
+In this module, we will be using point clouds to identify the object and pinpoint the location of where the robot should grasp the object. Then, we will be using a convolutional neural network to train a model in order for the robot learn and to make accurate predictions of the appropriate grasp pose for a given input image<br><br>
 
 ## Installation Instructions:
 
@@ -27,4 +25,6 @@ Here are the results I got.<br>
 
 The code is included in this repo.<br><br>
 
-### Q1 - Plane fitting:<br>
+### Q1 - Grasp Simulator:<br>
+
+![Simulation1](https://user-images.githubusercontent.com/98131995/236622234-3b492928-a316-4fe9-8dca-d8862dba5e05.gif)
