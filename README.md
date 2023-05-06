@@ -41,3 +41,7 @@ Training:<br>
 
 After Training:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236622932-0cda1e59-729c-4e41-a749-7e467962844b.png)     ![image](https://user-images.githubusercontent.com/98131995/236622947-ca0609ed-9ed1-409d-81e5-f5bbb29e75b3.png)<br><br>
+
+Evaluation:<br>
+![image](https://user-images.githubusercontent.com/98131995/236623342-17547337-97a9-4281-9ee8-772f65ad8f82.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/236623386-b3872ee8-d26f-4611-a5bc-2720f48425da.png)<br><br>
