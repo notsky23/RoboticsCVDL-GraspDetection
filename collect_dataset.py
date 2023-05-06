@@ -5,6 +5,7 @@ from tqdm import tqdm
 
 from simulator import Simulator
 
+
 def foo(num_grasps, num_rotations, img_size, render=False, show_progress=False):
     '''Runs env to collect samples, for parallelization'''
     sim = Simulator(img_size=img_size, render=render, obj_rotation_range=(-0.2, 0.2))
