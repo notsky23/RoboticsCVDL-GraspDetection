@@ -33,3 +33,7 @@ The code is included in this repo.<br><br>
 
 ![image](https://user-images.githubusercontent.com/98131995/236622429-3f2757c6-f76b-4bd8-8edb-ef2f29547c52.png)<br><br>
 <img src="https://user-images.githubusercontent.com/98131995/236622581-2d0bee8f-c4af-4674-bf83-ea9230806b92.png" width=50% height=50%><img src="https://user-images.githubusercontent.com/98131995/236622636-4fd863bf-e0bd-4d63-bf1c-f9709d6f5c81.png" width=50% height=50%><br><br>
+
+### Q3 - Training and Evaluating Network:<br>
+
+![image](https://user-images.githubusercontent.com/98131995/236622771-821fabc7-50c6-41c4-9e72-3a7d4eaec66a.png)
