@@ -1,4 +1,4 @@
-# RoboticsCV-PointCloudAnalysis
+# RoboticsCVDL-GraspDetection
 
 HW Guide: https://github.com/notsky23/RoboticsDL-GraspDetection/blob/master/hw6-2.pdf.<br><br>
 
