@@ -49,4 +49,6 @@ Evaluation:<br>
 ### Q4 - Adding Data Augmentation:<br>
 
 ![image](https://user-images.githubusercontent.com/98131995/236623484-acc76e28-f470-434d-bf3f-872187d99b56.png)<br><br>
+
+Simulation with training and data augmentation:<br>
 ![Simulation 2](https://user-images.githubusercontent.com/98131995/236623606-0d81ae98-c5b0-4ac4-831b-b51508afd35a.gif)<br><br>
