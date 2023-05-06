@@ -45,3 +45,7 @@ After Training:<br>
 Evaluation:<br>
 ![image](https://user-images.githubusercontent.com/98131995/236623342-17547337-97a9-4281-9ee8-772f65ad8f82.png)<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/236623386-b3872ee8-d26f-4611-a5bc-2720f48425da.png)<br><br>
+
+### Q4 - Adding Data Augmentation:<br>
+
+![image](https://user-images.githubusercontent.com/98131995/236623484-acc76e28-f470-434d-bf3f-872187d99b56.png)<br><br>
