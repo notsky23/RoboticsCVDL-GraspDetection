@@ -28,7 +28,7 @@ The libraries we will be using are:
 5. numpy
 6. matplotlib
 ```
-
+<br><br>
 
 ## Results:<br>
 
