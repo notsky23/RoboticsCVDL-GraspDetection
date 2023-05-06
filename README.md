@@ -36,4 +36,4 @@ The code is included in this repo.<br><br>
 
 ### Q3 - Training and Evaluating Network:<br>
 
-![image](https://user-images.githubusercontent.com/98131995/236622771-821fabc7-50c6-41c4-9e72-3a7d4eaec66a.png)
+![image](https://user-images.githubusercontent.com/98131995/236622819-b619c548-1894-4f1e-8868-3d33526c6950.png)<br><br>
