@@ -27,6 +27,7 @@ The code is included in this repo.<br><br>
 
 ### Q1 - Grasp Simulator:<br>
 
+Test Simulation:<br>
 ![Simulation1](https://user-images.githubusercontent.com/98131995/236622234-3b492928-a316-4fe9-8dca-d8862dba5e05.gif)<br><br>
 
 ### Q2 - Create Grasp Prediction Network:<br>
