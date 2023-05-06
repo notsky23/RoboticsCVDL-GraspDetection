@@ -31,4 +31,5 @@ The code is included in this repo.<br><br>
 
 ### Q2 - Create Grasp Prediction Network:<br>
 
-![image](https://user-images.githubusercontent.com/98131995/236622429-3f2757c6-f76b-4bd8-8edb-ef2f29547c52.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/236622429-3f2757c6-f76b-4bd8-8edb-ef2f29547c52.png)<br>
+![image](https://user-images.githubusercontent.com/98131995/236622514-f80f654d-c708-4a1e-9e1f-31a30fb34d6e.png)<br><br>
